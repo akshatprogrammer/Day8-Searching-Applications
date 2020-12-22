@@ -3,7 +3,7 @@
 # Minimum number of cins collected per hour to empty N piles in at most H hours.
 ## Algorithm
 * If no. piles = no. of hour
-* output = a[max element of array]
+* output = a[max element of array] </br>
 <-------------------------------------> </br>
 * Initialize low=1 and high = a[max]
 while(loe<high) </br>
